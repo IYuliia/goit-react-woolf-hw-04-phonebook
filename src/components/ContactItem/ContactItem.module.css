@@ -1,0 +1,20 @@
+.item {
+  margin-bottom: 12px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.description {
+  font-size: 20px;
+}
+
+.button {
+  background-color: palegoldenrod;
+  border: 1px solid lightgrey;
+  border-radius: 4px;
+  padding: 12px 24px;
+  margin-left: 10px;
+}
